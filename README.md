@@ -5,7 +5,7 @@
 
 This project is an API built using **Java, Java Spring, PostgreSQL as the database.** 
 
-The Unit tests was built using **JUnit, Mockito and AssertJ.**
+The Unit tests was built using **JUnit and Mockito.**
 
 ## Table of Contents
 
